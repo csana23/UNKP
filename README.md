@@ -12,6 +12,3 @@ Technolgies used in this project:
 	- TensorFlow
 	- Anaconda
 	- Jupyter Notebook
-
-Progress:
-
